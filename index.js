@@ -37,10 +37,10 @@ const questions = [
 
     type: 'input',
     name: 'installation',
-    message: 'How do you install the project? (Required)',
+    message: 'Describe the installation process if any:',
     validate: function(input) {
         if (input.length < 1) {
-            return console.log('You need to provide installation info to continue!');
+            return console.log('If you dont have installation process plese enter NAN');
         } else {
             return true;
         }
@@ -51,15 +51,22 @@ const questions = [
 
     type: 'input',
     name: 'usage',
-    message: 'List the steps of how to use this application',
+    message: 'What is this project usage for? Provide instructions and examples of your project Usage.',
     validate: function(input) {
         if (input.length < 1) {
-            return console.log('You need to provide using steps info to continue!');
+            return console.log("You didn't enter the usage");
         } else {
             return true;
         }
     }  
 },
+//------ Credits
+{
+
+    type: 'input',
+    name: 'credits',
+    message:"If applicable, provide any credits for your application" 
+}
 ];
 
 // TODO: Create a function to write README file
