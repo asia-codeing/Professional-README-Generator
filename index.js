@@ -62,11 +62,16 @@ const questions = [
 },
 //------ Credits
 {
-
     type: 'input',
     name: 'credits',
     message:"If applicable, provide any credits for your application" 
-}
+},
+//------Contributors
+{
+    type: 'input',
+    name: 'contributors',
+    message: 'Provide the contributors info:'
+},
 ];
 
 // TODO: Create a function to write README file

@@ -1,10 +1,10 @@
-# README generator
+# README Generator
   
   ## Licensing:
   [![license](https://img.shields.io/badge/license-undefined-brightgreen)](https://shields.io)
 
   ## Description:
-  Comandlin application that create profissional README file
+  comanlin to generate readme fil
 
   ## Table of Contents
   * [Installation](#installation)
@@ -15,16 +15,16 @@
   * [Contact-info](#contact-info)
   
   ## Installation
-  * npm init * npm install inguirer
+  nan
 
   ## Usage
-  1- open the terminal. 2-run nodeindex.js
+  this project to create profitional raed me file
   
   ## Credits
-  undefined
+  non
 
   ## Contributors
-  undefined
+  Asia Alnahi
 
   ## License
   undefined
