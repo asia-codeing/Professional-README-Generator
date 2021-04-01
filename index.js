@@ -1,9 +1,9 @@
-// TODO: Include packages needed for this application
+//Packages needed for this application
 const inquirer = require('inquirer');
 const fs = require('fs');
 const generateMarkdown = require('./utils/generateMarkdown.js')
  
-// TODO: Create an array of questions for user input
+// An array of questions for user input
 const questions = [
 //---Project Title
 {
@@ -20,7 +20,6 @@ const questions = [
 },
 //---Description
 {
-
     type: 'input',
     name: 'description',
     message: 'Provide a description of the project (Required)',
@@ -34,7 +33,6 @@ const questions = [
 },
 //----- Installation
 {
-
     type: 'input',
     name: 'installation',
     message: 'Describe the installation process if any:',
@@ -48,7 +46,6 @@ const questions = [
 },
 //----- Usage----
 {
-
     type: 'input',
     name: 'usage',
     message: 'What is this project usage for? Provide instructions and examples of your project Usage.',
@@ -59,18 +56,6 @@ const questions = [
             return true;
         }
     }  
-},
-//------ Tests----
-{
-    type: 'input',
-    name: 'tests',
-    message:"If applicable, provide any tests for your application" 
-},
-//------Contributing
-{
-    type: 'input',
-    name: 'contributing',
-    message: 'Provide the contributing info:'
 },
 //------License
 {
@@ -91,8 +76,19 @@ const questions = [
         }
     } 
 },
-
-//------Contact Info
+//------Contributing
+{
+    type: 'input',
+    name: 'contributing',
+    message: 'Provide the contributing info:'
+},
+//------ Tests----
+{
+    type: 'input',
+    name: 'tests',
+    message:"If applicable, provide any tests for your application" 
+},
+//------Questions
 //---------GitHub
 {
     type: 'input',
@@ -121,14 +117,14 @@ const questions = [
 },
 ];
 
-// TODO: Create a function to write README file
+// A function to write README file
 function writeToFile(fileName, data) {
     fs.writeFile(fileName, data, (error) =>
      error ? console.log(error) : console.log('Success! Information transferred to the README!'));
     
 }
 
-// TODO: Create a function to initialize app
+// A function to initialize app
 //function init() {}
 // Function to initialize app
 function init() {
