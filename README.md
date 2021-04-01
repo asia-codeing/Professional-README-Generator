@@ -1,10 +1,7 @@
-# REademe
+# read
   
-  ## Licensing:
-  [![license](https://img.shields.io/badge/license-MPL%202.0-brightgreen)](https://shields.io)
-
   ## Description:
-  asfdsvcvfdhrtsh
+  gfbdfv
 
   ## Table of Contents
   * [Installation](#installation)
@@ -15,21 +12,21 @@
   * [Contact-info](#contact-info)
   
   ## Installation
-  hfgdfsfgaerg
+  gfbdv
 
   ## Usage
-  bchsrgdfwfrha
+  fdgdf
   
   ## Credits
-  ghgdfvdfsferg
+  fgsd
 
   ## Contributors
-  asa
+  dsfv
 
   ## License
-  MPL%202.0
+  [![license](https://img.shields.io/badge/license-MPL%202.0-brightgreen)](https://shields.io)
 
   ## Contact Info
-  * Portfolio: undefined
-  * Email: undefined
+  * Portfolio: gfbv
+  * Email: fgdfz
 
