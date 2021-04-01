@@ -62,10 +62,10 @@ const questions = [
     type: 'list',
     name: 'licensing',
     message: 'Choose a license for your project: (Required)',
-    choices: [  'ODbL',
-                'MIT', 
-                'MPL%202.0', 
+    choices: [  'MIT', 
+                'GNU%20v3.0', 
                 'Apache%202.0', 
+                'MPL%202.0',
                 'None'
              ],
     validate: function(input) {
@@ -113,7 +113,6 @@ const questions = [
     type: 'input',
     name: 'email',
     message: 'Would you like to include your email?'
-
 },
 ];
 
@@ -124,8 +123,6 @@ function writeToFile(fileName, data) {
     
 }
 
-// A function to initialize app
-//function init() {}
 // Function to initialize app
 function init() {
     inquirer.prompt(questions)

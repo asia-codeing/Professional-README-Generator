@@ -32,7 +32,7 @@ function generateMarkdown(userInput) {
   ${userInput.usage}
 
   ## License
-  [![license](https://img.shields.io/badge/license-${userInput.licensing}-brightgreen)](https://shields.io)
+  [![license](https://img.shields.io/badge/license-${userInput.licensing}-brightgreen)](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/licensing-a-repository#searching-github-by-license-type)
 
   ## Contributing
   ${userInput.contributing}

@@ -1,7 +1,7 @@
-# README Generator
+# README
   
   ## Description:
-  comanline application
+  readme generator
 
   ## Table of Contents
   * [Installation](#installation)
@@ -12,25 +12,25 @@
   * [Questions](#questions)
   
   ## Installation
-  ``` npm init ``` 
+  npm init
 
   ## Usage
-  in the terminal run ``` node index.js ```
+  index.js
 
   ## License
-  [![license](https://img.shields.io/badge/license-MIT-brightgreen)](https://shields.io)
+  [![license](https://img.shields.io/badge/license-Apache%202.0-brightgreen)](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/licensing-a-repository#searching-github-by-license-type)
 
   ## Contributing
-  Contributinh is open fell free to fork the repo
+  fell free 
  
   ## Tests
-  None
+  none
 
   
   ## Questions
   For any questions, additional help or questions about collaboration, please contact me with the information below:
 
   * GitHub: [GitHub-Profile](https://github.com/asia-codeing)
-  * Portfolio: my-portfolio
-  * Email: asia.alius@gmail.com
+  * Portfolio: bfd
+  * Email: dfc
 
