@@ -92,6 +92,20 @@ const questions = [
     } 
 },
 //------Contact Info
+
+//---------GitHub
+{
+    type: 'input',
+    name: 'username',
+    message: 'Please enter your GitHub Username: (Required)',
+    validate: function(input) {
+        if (input.length < 1) {
+            return console.log("You didn't enter your GitHub Username, Please enter your GitHub Username:");
+        } else {
+            return true;
+        }
+    } 
+},
 //---------Portfolio
 {
     type: 'input',

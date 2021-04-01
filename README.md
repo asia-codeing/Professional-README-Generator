@@ -1,7 +1,7 @@
-# read
+# fghyret
   
   ## Description:
-  gfbdfv
+  tfggr
 
   ## Table of Contents
   * [Installation](#installation)
@@ -12,21 +12,22 @@
   * [Contact-info](#contact-info)
   
   ## Installation
-  gfbdv
+  hhret46u
 
   ## Usage
-  fdgdf
+  rgu7fd
   
   ## Credits
-  fgsd
+  ryrgfgj
 
   ## Contributors
-  dsfv
+  jytujet
 
   ## License
-  [![license](https://img.shields.io/badge/license-MPL%202.0-brightgreen)](https://shields.io)
+  [![license](https://img.shields.io/badge/license-ODbL-brightgreen)](https://shields.io)
 
   ## Contact Info
-  * Portfolio: gfbv
-  * Email: fgdfz
+  * GitHub: [GitHub](https://github.com/asia-codeing)
+  * Portfolio: jbjnijn
+  * Email: uugjhb
 

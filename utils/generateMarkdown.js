@@ -41,6 +41,7 @@ function generateMarkdown(userInput) {
   [![license](https://img.shields.io/badge/license-${userInput.licensing}-brightgreen)](https://shields.io)
 
   ## Contact Info
+  * GitHub: [GitHub](https://github.com/${userInput.username})
   * Portfolio: ${userInput.portfolio}
   * Email: ${userInput.email}
 
