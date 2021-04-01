@@ -60,17 +60,17 @@ const questions = [
         }
     }  
 },
-//------ Credits----
+//------ Tests----
 {
     type: 'input',
-    name: 'credits',
-    message:"If applicable, provide any credits for your application" 
+    name: 'tests',
+    message:"If applicable, provide any tests for your application" 
 },
-//------Contributors
+//------Contributing
 {
     type: 'input',
-    name: 'contributors',
-    message: 'Provide the contributors info:'
+    name: 'contributing',
+    message: 'Provide the contributing info:'
 },
 //------License
 {
@@ -91,8 +91,8 @@ const questions = [
         }
     } 
 },
-//------Contact Info
 
+//------Contact Info
 //---------GitHub
 {
     type: 'input',

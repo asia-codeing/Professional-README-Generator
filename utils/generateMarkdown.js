@@ -30,18 +30,21 @@ function generateMarkdown(userInput) {
 
   ## Usage
   ${userInput.usage}
-  
-  ## Credits
-  ${userInput.credits}
-
-  ## Contributors
-  ${userInput.contributors}
 
   ## License
   [![license](https://img.shields.io/badge/license-${userInput.licensing}-brightgreen)](https://shields.io)
 
-  ## Contact Info
-  * GitHub: [GitHub](https://github.com/${userInput.username})
+  ## Contributing
+  ${userInput.contributing}
+ 
+  ## Tests
+  ${userInput.tests}
+
+  
+  ## Questions
+  For any questions, additional help or questions about collaboration, please contact me with the information below:
+
+  * GitHub: [GitHub-Profile](https://github.com/${userInput.username})
   * Portfolio: ${userInput.portfolio}
   * Email: ${userInput.email}
 
