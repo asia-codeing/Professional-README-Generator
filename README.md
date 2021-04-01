@@ -1,10 +1,10 @@
-# README Generator
+# REademe
   
   ## Licensing:
-  [![license](https://img.shields.io/badge/license-undefined-brightgreen)](https://shields.io)
+  [![license](https://img.shields.io/badge/license-MPL%202.0-brightgreen)](https://shields.io)
 
   ## Description:
-  comanlin to generate readme fil
+  asfdsvcvfdhrtsh
 
   ## Table of Contents
   * [Installation](#installation)
@@ -15,19 +15,19 @@
   * [Contact-info](#contact-info)
   
   ## Installation
-  nan
+  hfgdfsfgaerg
 
   ## Usage
-  this project to create profitional raed me file
+  bchsrgdfwfrha
   
   ## Credits
-  non
+  ghgdfvdfsferg
 
   ## Contributors
-  Asia Alnahi
+  asa
 
   ## License
-  undefined
+  MPL%202.0
 
   ## Contact Info
   * Portfolio: undefined

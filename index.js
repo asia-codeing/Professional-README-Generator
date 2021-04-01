@@ -46,7 +46,7 @@ const questions = [
         }
     }  
 },
-//----- Usage
+//----- Usage----
 {
 
     type: 'input',
@@ -60,7 +60,7 @@ const questions = [
         }
     }  
 },
-//------ Credits
+//------ Credits----
 {
     type: 'input',
     name: 'credits',
@@ -71,6 +71,39 @@ const questions = [
     type: 'input',
     name: 'contributors',
     message: 'Provide the contributors info:'
+},
+//------License
+{
+    type: 'list',
+    name: 'licensing',
+    message: 'Choose a license for your project: (Required)',
+    choices: [  'ODbL',
+                'MIT', 
+                'MPL%202.0', 
+                'Apache%202.0', 
+                'None'
+             ],
+    validate: function(input) {
+        if (input.length < 1) {
+            return console.log("You didn't choose license, Please select the license:");
+        } else {
+            return true;
+        }
+    } 
+},
+//------Contact Info
+//---------Portfolio
+{
+    type: 'input',
+    name: 'portfolio',
+    message: 'Would you like to include your portfolio?'
+},
+//-----------Email
+{
+    type: 'input',
+    name: 'email',
+    message: 'Would you like to include your email?'
+
 },
 ];
 
