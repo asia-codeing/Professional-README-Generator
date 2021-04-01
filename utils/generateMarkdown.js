@@ -20,10 +20,10 @@ function generateMarkdown(userInput) {
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
-  * [Credits](#credits)
-  * [Contributors](#contributors)
   * [License](#license)
-  * [Contact-info](#contact-info)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Questions](#questions)
   
   ## Installation
   ${userInput.installation}

@@ -40,7 +40,7 @@ const questions = [
     message: 'Describe the installation process if any:',
     validate: function(input) {
         if (input.length < 1) {
-            return console.log('If you dont have installation process plese enter NAN');
+            return console.log('If you dont have installation process plese enter None');
         } else {
             return true;
         }
