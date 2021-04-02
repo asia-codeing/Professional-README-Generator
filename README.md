@@ -1,7 +1,8 @@
-# README
-  
+# READEME
+  [![licensing](https://img.shields.io/badge/license-Apache2.0-brightgreen)](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/licensing-a-repository#searching-github-by-license-type)
+
   ## Description:
-  readme generator
+  A comand line application that create reade me file 
 
   ## Table of Contents
   * [Installation](#installation)
@@ -12,25 +13,25 @@
   * [Questions](#questions)
   
   ## Installation
-  npm init
+  npm install, npm i
 
   ## Usage
-  index.js
+  This project use to create aprofitional readem generatoe
 
   ## License
-  [![license](https://img.shields.io/badge/license-Apache%202.0-brightgreen)](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/licensing-a-repository#searching-github-by-license-type)
+  This project is convered under the Apache2.0
 
   ## Contributing
-  fell free 
+  Feel free to contributing you can fork it 
  
   ## Tests
-  none
+  nane
 
   
   ## Questions
   For any questions, additional help or questions about collaboration, please contact me with the information below:
 
   * GitHub: [GitHub-Profile](https://github.com/asia-codeing)
-  * Portfolio: bfd
-  * Email: dfc
+  * Portfolio: 
+  * Email: asia.alius@gmail.com
 

@@ -63,9 +63,9 @@ const questions = [
     name: 'licensing',
     message: 'Choose a license for your project: (Required)',
     choices: [  'MIT', 
-                'GNU%20v3.0', 
-                'Apache%202.0', 
-                'MPL%202.0',
+                'GNUv3.0', 
+                'Apache2.0', 
+                'MPL2.0',
                 'None'
              ],
     validate: function(input) {
@@ -102,12 +102,7 @@ const questions = [
         }
     } 
 },
-//---------Portfolio
-{
-    type: 'input',
-    name: 'portfolio',
-    message: 'Would you like to include your portfolio?'
-},
+
 //-----------Email
 {
     type: 'input',
