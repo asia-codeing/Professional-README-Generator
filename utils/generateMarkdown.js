@@ -14,22 +14,23 @@ function generateMarkdown(userInput) {
   * [Tests](#tests)
   * [Questions](#questions)
   
-  ## Installation
+  ## Installation:
   ${userInput.installation}
 
-  ## Usage
+  ## Usage:
   ${userInput.usage}
 
-  ## License
+  ## License:
   This project is convered under the ${userInput.licensing}
 
-  ## Contributing
+  ## Contributing:
   ${userInput.contributing}
  
-  ## Tests
+  ## Tests:
   ${userInput.tests}
 
-  ## Questions
+  ## Questions:
+
   For any questions, additional help or questions about collaboration, please contact me with the information below:
 
   * GitHub: [GitHub-Profile](https://github.com/${userInput.username})
@@ -37,5 +38,5 @@ function generateMarkdown(userInput) {
 
 `;
 }
-
+//module.exports give us the ability to import the function that co me with it in diffrent places
 module.exports = generateMarkdown;
