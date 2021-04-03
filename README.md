@@ -40,7 +40,7 @@
 
 
   ## License:
-  This project is convered under the MIT
+  This project is convered under the MIT License.
 
   ## Contributing:
   Contributions are accepted. Feel free to fork.
