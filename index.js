@@ -114,7 +114,7 @@ const questions = [
 // A function to write README file
 function writeToFile(fileName, data) {
     fs.writeFile(fileName, data, (error) =>
-     error ? console.log(error) : console.log('Success! Information transferred to the README!'));
+     error ? console.log(error) : console.log('Success! Information transferred to the SampleREADME.md!'));
     
 }
 
